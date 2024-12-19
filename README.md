@@ -3,6 +3,7 @@
 Our goal for this project was to successfully manipulate the HiWonder Armpi Pro Robot through the use of the built in Raspberry Pi, virtual machine, and python code. We were able to accomplish this by using the demos and modules given with the Armpi Pro, as well as with the knowledge we have gained throughout this course. Specifically, we needed knowledge of frames, forward and inverse kinematics, ROS and python in order to complete this project. 
 
 Presentation Video 
+https://drive.google.com/file/d/1dfd5dVUg2AiPY3BQyDkV91QHBVXBmqm4/view?usp=drive_link
 
 Demo Video
 https://youtu.be/25a-E_HnqxQ 
