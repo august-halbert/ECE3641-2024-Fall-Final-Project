@@ -5,7 +5,7 @@ Our goal for this project was to successfully manipulate the HiWonder Armpi Pro 
 Presentation Video 
 
 Demo Video
-https://youtube.com/shorts/U1v7lLLqbgs?feature=share
+https://youtu.be/25a-E_HnqxQ 
 
 Presentation Slides
 
