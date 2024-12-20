@@ -12,6 +12,7 @@ Presentation Slides
 https://docs.google.com/presentation/d/1kl6UK0CF7Wv3cK8TFpyo_OkuvZlFDrAg3HpFIhJu2PA/edit?usp=sharing
 
 Report
+https://drive.google.com/file/d/1I-IiqWaofnozaIJLk2bDdshZmQUksp9L/view?usp=drive_link
 
 Dataset
 https://github.com/august-halbert/ECE3641-2024-Fall-Final-Project/blob/main/Dataset
